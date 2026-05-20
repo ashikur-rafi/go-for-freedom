@@ -1,3 +1,3 @@
 # go-for-freedom
-This is my first git repository 
+This is my first Git Repository. 
 Auther-Md.Asikur Rahman
