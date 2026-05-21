@@ -20,3 +20,19 @@ elif( marks >= 70 and marks < 80):
     print("C")
 else:
     print("D")
+
+    #Arithmetic operations code
+a = int(input("x ="))
+b = int(input("y ="))
+c = a + b
+print("Sum =", c)   
+c = a - b
+print("Difference =", c)
+c = a * b
+print("Product =", c)
+c = a / b
+print("Quotient =", c)
+c = a % b
+print("Remainder =", c)
+c = a ** b
+print("Power =", c)
